@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my Github profile, sit down and get to know a little about me.
 ## My name is Iolanda
 - 🌱 I’m currently learning Java and Phyton, but HTML and CSS too.
 - 🔭 And currently studying on New Start Avanade and Con.Domínio Digital (wich i learn softskills too👐).
