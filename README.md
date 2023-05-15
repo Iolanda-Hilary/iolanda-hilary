@@ -17,6 +17,5 @@
   <img align="center" alt="iolanda-CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="iolanda-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="iolanda-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)](https://skillicons.dev)
      
    </div>
