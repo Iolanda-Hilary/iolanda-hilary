@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Phyton, but HTML and CSS too.
 - 🔭 And currently studying on New Start Avanade and Con.Domínio Digital (wich i learn softskills too👐).
 - 💻 Studying analysis and systems development at São Francisco de Assis University
-- 💬 Ask me about programming logic and Java, we'll have a nice talk about it 🤩
+- 💬 Aways on my way to learn more
 <div>
 <a href="https://github.com/iolanda-hilary">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iolanda-hilary&layout=compact&langs_count=7&theme=dracula"/>
