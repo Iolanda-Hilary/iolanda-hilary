@@ -1,9 +1,9 @@
-# 👋 Hello! Welcome to my Github profile, sit down and get to know a little about me.
+# 👋 Hello! Sit down and get to know a little about me.
 ## My name is Iolanda
-- 🌱 I’m currently learning Java and Phyton, but HTML and CSS too.
-- 🔭 And currently studying on New Start Avanade and Con.Domínio Digital (wich i learn softskills too👐).
+- 🌱 I’m currently learning Java, Phyton, HTML and CSS too.
+- 🔭 i'm on New Start Avanade and Con.Domínio Digital (wich i learn softskills too👐).
 - 💻 Studying analysis and systems development at São Francisco de Assis University
-- 💬 Aways on my way to learn more
+- 💬 Aways on my way to learn more and become a great backend developer
 <div>
 <a href="https://github.com/iolanda-hilary">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iolanda-hilary&layout=compact&langs_count=7&theme=dracula"/>
