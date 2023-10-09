@@ -1,7 +1,7 @@
 # 👋 Hello! Sit down and get to know a little about me.
 ## My name is Iolanda
-- 🌱 I’m currently learning Java, Phyton, HTML and CSS too.
-- 🔭 i'm on New Start Avanade and Con.Domínio Digital (wich i learn softskills too👐).
+- 🌱 My knowledge about hardskills is Java, Phyton, HTML and CSS too. 
+- 🔭 Now i'm Studying Data Science and C#.
 - 💻 Studying analysis and systems development at São Francisco de Assis University
 - 💬 Aways on my way to learn more and become a great backend developer
 <div>
